@@ -1,0 +1,14 @@
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.exe
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.deps.json
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.runtimeconfig.json
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.runtimeconfig.dev.json
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.dll
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\bin\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.pdb
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.csproj.AssemblyReference.cache
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.AssemblyInfoInputs.cache
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.AssemblyInfo.cs
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.csproj.CoreCompileInputs.cache
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.dll
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.pdb
+C:\Users\victo.DESKTOP-1FLTT50\source\repos\CSharp_Exercicio_Aula_132\CSharp_Exercicio_Aula_132\obj\Debug\netcoreapp3.1\CSharp_Exercicio_Aula_132.genruntimeconfig.cache
